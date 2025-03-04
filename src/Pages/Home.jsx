@@ -100,7 +100,7 @@ const Home = () => {
         className="opacity-0 flex flex-col items-center justify-center text-center px-6"
       >
         <h1 className="text-4xl md:text-6xl font-extrabold mb-8 tracking-wide">
-          Let's create <span className="text-red-500 italic">unforgettable</span> memories.
+          Thank you for <span className="text-red-500 italic">unforgettable</span> memories.
         </h1>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center w-full max-w-md">

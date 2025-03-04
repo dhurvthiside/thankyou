@@ -12,45 +12,48 @@ const NamePage = () => {
 
   const content = {
     akshay: {
-      message: `Dear Akshay,\n\nYour energy and enthusiasm light up every moment. 
-      From the smallest conversations to the biggest challenges, you've always been there. 
-      Your kindness, humor, and unwavering support make life better. 
-      I’m grateful for every memory we've shared and look forward to many more.\n\nWith appreciation,\n[Your Name]`,
+      message: `Akshay Bhaiya,\n\nRumbling! Rumbling! It's coming!😂 Out of everyone I never expected to meet Levi Ackerman on this trip!
+      I never imagined that main kisi se 2 hour Attack on Titan pe itna deep discussion karunga, it was truly once in a lifetime wala moment.\n
+      I can't wait to see Beast Titan vs Levi dubbed by you! All the Best for Season 3 and Season 4. Also Gintama aaj hi download karta hu dekhne ke liye.\n
+      Thank you for making this trip so memorable.
+      \n\nWith appreciation,\nDhruv`,
       images: ["/images/abhishek1.jpg", "/images/abhishek2.jpg"],
       bg: "bg-gray-900",
     },
     shivangi: {
-      message: `Dear Shivangi,\n\nYou are a source of inspiration and kindness. 
-      Every moment with you is special, and your presence makes everything brighter. 
-      Your wisdom and warmth have touched many lives, including mine.\n\nWith love,\n[Your Name]`,
+      message: `Hello Shivangi Di,\n\nDi, ek baar check karlo phone aur sab haina aapke paas😂\n I really wish that you pursue your dream
+      of becoming a makeup artist and reach great heights. Thank you for making this trip so memorable and I can't wait to go on more trips with 
+      you and Sneha Di\n\nWith regards,\nDhruv`,
       images: ["/images/shivangi1.jpg", "/images/shivangi2.jpg"],
       bg: "bg-red-900",
     },
     sneha: {
-      message: `Dear Sneha,\n\nYour presence brings warmth and happiness. 
-      From the way you care to the way you light up a room, you make the world better. 
-      I'm lucky to know you and cherish every moment we’ve shared.\n\nWarm regards,\n[Your Name]`,
+      message: `Helo Sneha Di,\n\nDi, i made a prediction, aapki Kundli ke anusaar aapko Ooty main 2 kaafi sahi londe milenge
+       aur aapko unke saath puri trip main bohot maze aayenge. Batao sahi prediction haina?😂\nDi, Thank you so much for making this trip so memorable
+       and mad respect for wearing heels on a hillstation🫡.\n Next time phir chalenge ek aur trip pe! \n\nWith admiration,\nDhruv`,
       images: ["/images/sneha1.jpg", "/images/sneha2.jpg"],
       bg: "bg-blue-900",
     },
     abhishek: {
-      message: `Dear Abhishek Bhaiya,\n\nYour presence brings warmth and happiness. 
-      From the way you care to the way you light up a room, you make the world better. 
-      I'm lucky to know you and cherish every moment we’ve shared.\n\nWarm regards,\n[Your Name]`,
+      message: `Abhishek Bhaiya,\n\nBhaiya yaar vo Deo reh gaya Ooty Zostel main le aao please!😂(JK)\n
+      Apan ne toh lekin bhaiya jis level pe relate maara hain, koi toh kahani hain jo aap ke paas hain batane ke liye, 
+      par vo kahani next time ke liye. Iss time ke liye, I am so thankful to have met such an amazing person like you. Thank you for making this trip so memorable.
+      \nBanglore aata hu kabhi aapse aur Pallu Di se milne!
+      \nWith Hopes to meet again soon!,\nDhruv`,
       images: ["/images/abhishek1.jpg", "/images/abhishek2.jpg"],
       bg: "bg-orange-900",
     },
     sajitha: {
-      message: `Dear Sajitha Di,\n\nYour presence brings warmth and happiness. 
-      From the way you care to the way you light up a room, you make the world better. 
-      I'm lucky to know you and cherish every moment we’ve shared.\n\nWarm regards,\n[Your Name]`,
+      message: `Dear Sajitha Di,\n\nDi, Tell me honestly did you leave the dorm because of Aditya and my nuisance?😂\n
+      Just kidding, Thank you so much for all the conversations and making this trip such a blast. Whenever I will come to Banglore I will message you.\n
+      We will meet up for more interesting conversations and good food!\n\nWarm regards,\nDhruv`,
       images: ["/images/abhishek1.jpg", "/images/abhishek2.jpg"],
       bg: "bg-green-900",
     },
     pallavi: {
-      message: `Dear Pallavi Di,\n\nYour presence brings warmth and happiness. 
-      From the way you care to the way you light up a room, you make the world better. 
-      I'm lucky to know you and cherish every moment we’ve shared.\n\nWarm regards,\n[Your Name]`,
+      message: `Dear Pallu Di,\n\nAur Homie kaise ho aap, kasi lag rhi hain manager ki shakal aur 10 baje ki meetings?😂\n
+      Ye gift meri tarf se aapke liye taaki jab bhi Ooty ki yaad aaye toh ek click main aap Ooty, Manager se dur!\n
+      Di mujhe pata hain aapko north shift hona hain par jaane se pehle, Chennai aao yaar jaldi ya main Bangalore aajau?\n\nWith more Bakchodi,\nDhruv`,
       images: ["/images/pallavi1.jpg", "/images/pallavi2.jpg"],
       bg: "bg-purple-900",
     },

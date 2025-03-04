@@ -16,7 +16,7 @@ const NamePage = () => {
       I never imagined that main kisi se 2 hour Attack on Titan pe itna deep discussion karunga, it was truly once in a lifetime wala moment.\n
       I can't wait to see Beast Titan vs Levi dubbed by you! All the Best for Season 3 and Season 4. Also Gintama aaj hi download karta hu dekhne ke liye.\n
       Thank you for making this trip so memorable.
-      \n\nWith appreciation,\nDhruv`,
+      \nWith appreciation,\nDhruv`,
       images: ["/images/abhishek1.jpg", "/images/abhishek2.jpg"],
       bg: "bg-gray-900",
     },
@@ -132,7 +132,7 @@ const NamePage = () => {
         ))}
       </div>
 
-      <p className="mt-6 text-base opacity-80 text-center">This page is dedicated to you. ❤️</p>
+      <p className="mt-6 text-white opacity-80 text-center">This page is dedicated to you. ❤️</p>
     </div>
   );
 };
